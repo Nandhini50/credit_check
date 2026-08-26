@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ORD-1001",
+    "customerName": "Apex Retail Pvt Ltd",
+    "orderDate": "2026-08-20",
+    "amount": 125000,
+    "creditLimit": 250000,
+    "outstandingBalance": 80000,
+    "paymentStatus": "On time",
+    "creditStatus": "Approved"
+  },
+  {
+    "id": "ORD-1002",
+    "customerName": "Bright Mart",
+    "orderDate": "2026-08-22",
+    "amount": 78000,
+    "creditLimit": 100000,
+    "outstandingBalance": 65000,
+    "paymentStatus": "Pending",
+    "creditStatus": "Review"
+  },
+  {
+    "id": "ORD-1003",
+    "customerName": "Crest Supplies",
+    "orderDate": "2026-08-25",
+    "amount": 42000,
+    "creditLimit": 75000,
+    "outstandingBalance": 18000,
+    "paymentStatus": "Overdue",
+    "creditStatus": "Hold"
+  }
+]
